@@ -17,7 +17,15 @@ The counter should decrease by one.
 
 
 **Assessment/Tools:**
+
 Only two imports are allowed: react (v16.8.6) and classnames (v2.2.5). Both are at the top of the starting code.
 Use the animation below as a reference for your solution.
 Design/styling is not assessed and will not affect the score. You should focus only on implementing the requirements.
 The "Preview" tab will display your component. You can use it for testing purposes.
+
+
+**Video Attachment**
+you will find a video illustrating how the button should work. Make sure to look at it in order to provide desired results
+
+Happing Coding
+Nodem Technologies LTD
