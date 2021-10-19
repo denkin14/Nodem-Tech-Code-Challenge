@@ -24,8 +24,48 @@ Design/styling is not assessed and will not affect the score. You should focus o
 The "Preview" tab will display your component. You can use it for testing purposes.
 
 
+
+https://user-images.githubusercontent.com/50902806/137901060-039fe700-7e1d-4de8-bd43-983c1399e99d.mp4
+
+
 **Video Attachment**
-you will find a video illustrating how the button should work. Make sure to look at it in order to provide desired results
+The video above illustrates how the button should work. Make sure to look at it in order to provide desired results
+
+
+
+**HERE IS THE STARTING CODE**
+
+
+```
+import cx from 'classnames';
+import { Component } from 'react';
+
+export default class LikeButton extends Component {
+    render() {
+        return (
+            <>
+                <div>
+                    <h2>Like Button</h2>
+                </div>
+                <style>{`
+                    .like-button {
+                        font-size: 1rem;
+                        padding: 5px 10px;
+                        color:  #585858;
+                    }
+                   .liked {
+                        font-weight: bold;
+                        color: #1565c0;
+                   }
+                `}</style>
+            </>
+        );
+    }
+}
+
+
+
+```
 
 Happing Coding
 Nodem Technologies LTD
